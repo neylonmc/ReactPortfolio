@@ -40,6 +40,24 @@ const Project_DATA = [
         linked: "https://neylonmc.github.io/Password-Generator/",
         imageUrl: "../../Images/image01.png",
       },
+      {
+        id: 5,
+        name: "Homework: Javascript Coding Quiz",
+        concept:
+          "A timed code quiz with multiple-choice questions. This app is run in the browser and features dynamically updated HTML and CSS powered by JavaScript code.",
+        github: "https://neylonmc.github.io/Javascript-Coding-Quiz/",
+        linked: "https://github.com/neylonmc/Javascript-Coding-Quiz",
+        imageUrl: "../../Images/image01.png",
+      },
+      {
+        id: 6,
+        name: "Homework: MySQL Employee Database",
+        concept:
+          "This application is meant to help business owners be able to view and manage the departments, roles, and employees in their company so that they can organize and plan their business better.",
+        github: "https://github.com/neylonmc/MySQL-Employee-Tracker",
+        linked: "https://github.com/neylonmc/MySQL-Employee-Tracker",
+        imageUrl: "../../Images/image01.png",
+      },
     ],
   },
 ];

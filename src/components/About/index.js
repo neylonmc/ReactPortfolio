@@ -7,12 +7,8 @@ function About() {
   return (
     <div className="about">
       <div className="container">
-        <img
-          src={pictureOfMe}
-          alt="Meaghan"
-          className="photo"
-          style={{ height: "600px" }}
-        />
+        <img src={pictureOfMe} alt="Meaghan" />
+
         <h1 className="name"> Hi, I'm Meaghan Neylon. </h1>
         <span className="subtitle">
           I am an aspiring web developer from Richmond, VA. I am interested in

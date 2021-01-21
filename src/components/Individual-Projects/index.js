@@ -1,15 +1,15 @@
 import React from "react";
 import "./style.css";
 import photo from "../../Images/image01.png";
+import { Card } from "react-bootstrap";
 
 const ProjectItem = ({ name, concept, github, link }) => (
-  <div className="project-item col mb-4">
-    <div className="card">
-      <img src={photo} class="card-img-top" alt="Project" />
-      <div class="card-body">
-        <h5 class="card-title">{name}</h5>
-        <p class="card-text">{concept}</p>
-        <p>
+  <div className="grid">
+    <Card style={{ width: "18rem" }} className="box">
+      <Card.Img variant="top" src={photo} />
+      <Card.Body>
+        <Card.Title>{name}</Card.Title>
+        <Card.Text>
           <a href={link}>
             <i
               class="fas fa-external-link-alt fa-2x"
@@ -22,9 +22,9 @@ const ProjectItem = ({ name, concept, github, link }) => (
               style={{ color: "black" }}
             />
           </a>
-        </p>
-      </div>
-    </div>
+        </Card.Text>
+      </Card.Body>
+    </Card>
   </div>
 );
 
