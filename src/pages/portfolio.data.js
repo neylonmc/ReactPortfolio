@@ -18,8 +18,8 @@ const Project_DATA = [
         name: "Lettuce, Meet Patty",
         concept:
           "Perfect place for a burger-fanatic to keep a list of burgers they would like to eat or burgers they have already devoured.",
-        github: "https://github.com/Bertodemus/LeopardLightning",
-        linked: "https://leopard-ta.herokuapp.com/",
+        github: "https://github.com/neylonmc/Good-Burger-Creator",
+        linked: "sheltered-beyond-99467.herokuapp.com/",
         imageUrl: "../../Images/image01.png",
       },
       {
@@ -27,8 +27,8 @@ const Project_DATA = [
         name: "Project: PX",
         concept:
           "PX is a simple way to have all your social media and news in one central place.",
-        github: "https://github.com/Bertodemus/LeopardLightning",
-        linked: "https://leopard-ta.herokuapp.com/",
+        github: "https://github.com/tremaynet/group-project-1",
+        linked: "https://tremaynet.github.io/group-project-1/",
         imageUrl: "../../Images/image01.png",
       },
       {
@@ -36,8 +36,8 @@ const Project_DATA = [
         name: "Homework: Password Generator",
         concept:
           "Password generator that uses Javascript to create a password based on the characters the user would like.",
-        github: "https://github.com/Bertodemus/LeopardLightning",
-        linked: "https://leopard-ta.herokuapp.com/",
+        github: "https://github.com/neylonmc/Password-Generator",
+        linked: "https://neylonmc.github.io/Password-Generator/",
         imageUrl: "../../Images/image01.png",
       },
     ],
