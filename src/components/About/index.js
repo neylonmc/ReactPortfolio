@@ -24,7 +24,7 @@ function About() {
           threads and good coffee.
         </span>
 
-        <div className="contact-info">
+        <div className="contact-info" style={{ color: "white" }}>
           <a href="https://github.com/neylonmc" target="_blank">
             <i className="fab fa-github-square fa-2x " />
           </a>
