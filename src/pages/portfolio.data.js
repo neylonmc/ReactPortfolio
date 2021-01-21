@@ -11,7 +11,7 @@ const Project_DATA = [
           "On average, 150 million individuals per year attend professional sporting events. During a global pandemic, spectator attendance deminishes to almost 0. We have developed an app that brings people together and creates an environment to compete against each other.",
         github: "https://github.com/Bertodemus/LeopardLightning",
         linked: "https://leopard-ta.herokuapp.com/",
-        imageUrl: require(".../Images/image01.png"),
+        imageUrl: require("../Images/image01.png"),
       },
       {
         id: 2,
@@ -20,7 +20,7 @@ const Project_DATA = [
           "Perfect place for a burger-fanatic to keep a list of burgers they would like to eat or burgers they have already devoured.",
         github: "https://github.com/Bertodemus/LeopardLightning",
         linked: "https://leopard-ta.herokuapp.com/",
-        imageUrl: require(".../Images/image01.png"),
+        imageUrl: require("../Images/image01.png"),
       },
       {
         id: 3,
@@ -29,7 +29,7 @@ const Project_DATA = [
           "PX is a simple way to have all your social media and news in one central place.",
         github: "https://github.com/Bertodemus/LeopardLightning",
         linked: "https://leopard-ta.herokuapp.com/",
-        imageUrl: require(".../Images/image01.png"),
+        imageUrl: require("../Images/image01.png"),
       },
       {
         id: 4,
@@ -38,7 +38,7 @@ const Project_DATA = [
           "Password generator that uses Javascript to create a password based on the characters the user would like.",
         github: "https://github.com/Bertodemus/LeopardLightning",
         linked: "https://leopard-ta.herokuapp.com/",
-        imageUrl: require(".../Images/image01.png"),
+        imageUrl: require("../Images/image01.png"),
       },
     ],
   },
