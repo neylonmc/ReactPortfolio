@@ -1,0 +1,10 @@
+.nav {
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+
+.nav-items {
+  padding-top: 7px;
+  padding-left: 0px;
+}
