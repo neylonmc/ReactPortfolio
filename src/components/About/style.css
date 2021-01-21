@@ -1,0 +1,41 @@
+.about {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-family: "Frank Ruhl Libre", serif;
+}
+
+.subtitle {
+  display: inline-block;
+  width: 800px;
+}
+
+.container {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.photo {
+  width: 600px;
+  height: 400px;
+}
+
+a,
+a:hover,
+a:active,
+a:visited {
+  color: white;
+}
+
+.contact-info {
+  margin-top: 20px;
+}
+
+a {
+  margin-right: 10px;
+}
+
+.nav-items {
+  margin: 10px;
+}
