@@ -7,9 +7,12 @@
 .title {
   font-size: 28px;
   margin-bottom: 25px;
+  font-family: "Frank Ruhl Libre", serif;
+  text-align: center;
 }
 
 .projects {
   display: flex;
+  text-align: center;
   justify-content: space-between;
 }
