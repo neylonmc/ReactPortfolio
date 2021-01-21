@@ -1,19 +1,12 @@
 .about {
-  height: 100vh;
+  min-width: 100vh;
   background-color: black;
   color: white;
   font-family: "Frank Ruhl Libre", serif;
 }
 
-.subtitle {
-  display: inline-block;
-  width: 800px;
-}
-
 .container {
   position: relative;
-  top: 50%;
-  transform: translateY(-50%);
 }
 
 .photo {
