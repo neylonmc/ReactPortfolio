@@ -25,19 +25,19 @@ function About() {
         </span>
 
         <div className="contact-info">
-          <a href="https://github.com/neylonmc">
-            <i
-              className="fab fa-github-square fa-2x"
-              href="https://github.com/neylonmc"
-            />
+          <a href="https://github.com/neylonmc" target="_blank">
+            <i className="fab fa-github-square fa-2x " />
           </a>
-          <a href="https://www.linkedin.com/in/meaghan-neylon-844b031b4/">
+          <a
+            href="https://www.linkedin.com/in/meaghan-neylon-844b031b4/"
+            target="_blank"
+          >
             <i className="fab fa-linkedin fa-2x" />
           </a>
-          <a href="mailto:neylonmc@gmail.com">
+          <a href="mailto:neylonmc@gmail.com" target="_blank">
             <i className="fas fa-at fa-2x" />
           </a>
-          <a className="resume" href={resume}>
+          <a className="resume" href={resume} target="_blank">
             <i className="far fa-file fa-2x" />
           </a>
         </div>

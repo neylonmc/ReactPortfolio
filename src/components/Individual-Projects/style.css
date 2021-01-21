@@ -1,9 +1,8 @@
 .project-item {
-  width: 22%;
-  display: flex;
-  flex-direction: column;
-  height: 350px;
-  align-items: center;
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-family: "Frank Ruhl Libre", serif;
 }
 
 .imageUrl {
@@ -25,4 +24,9 @@
 .name {
   width: 90%;
   margin-bottom: 15px;
+}
+
+.fab,
+.fas {
+  color: black;
 }

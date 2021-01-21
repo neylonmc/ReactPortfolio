@@ -22,18 +22,17 @@
 }
 
 a,
+.fas,
+.far,
 a:hover,
 a:active,
 a:visited {
   color: white;
+  margin-right: 10px;
 }
 
 .contact-info {
   margin-top: 20px;
-}
-
-a {
-  margin-right: 10px;
 }
 
 .nav-items {

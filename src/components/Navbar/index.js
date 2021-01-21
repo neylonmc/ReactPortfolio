@@ -8,11 +8,13 @@ export default class Header extends Component {
   render() {
     return (
       <nav className="nav" id="navbar">
-        <img
-          src={logo}
-          alt="logo"
-          style={{ width: "200px", height: "40px", margin: "10px" }}
-        />
+        <Link to="/">
+          <img
+            src={logo}
+            alt="logo"
+            style={{ width: "200px", height: "40px", margin: "10px" }}
+          />
+        </Link>
         <div className="nav-content">
           <ul className="nav-items">
             <Link to="/work" className="nav-item">
