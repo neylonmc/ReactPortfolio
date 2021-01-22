@@ -4,8 +4,8 @@ import photo from "../../Images/image01.png";
 import { Card } from "react-bootstrap";
 
 const ProjectItem = ({ name, concept, github, link }) => (
-  <Card style={{ width: "18rem" }} className="grid">
-    <Card.Img variant="top" src={photo} />
+  <Card style={{ width: "800px" }} className="grid">
+    <Card.Img variant="top" src="holder.js/100px180" src={photo} />
     <Card.Body>
       <Card.Title>{name}</Card.Title>
       <Card.Text>

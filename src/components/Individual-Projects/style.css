@@ -13,3 +13,12 @@
   width: 100px;
   height: 270px;
 }
+
+.grid {
+  text-align: center;
+  color: black;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em;
+}
