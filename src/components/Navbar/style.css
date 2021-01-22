@@ -6,5 +6,10 @@
 
 .nav-items {
   padding-top: 7px;
-  padding-left: 0px;
+  padding-left: 10px;
+  font-size: large;
+}
+
+.nav-item {
+  padding-left: 10px;
 }
