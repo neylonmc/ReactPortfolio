@@ -14,12 +14,11 @@
   height: 600px;
 }
 
-.grid {
+.card-text {
   text-align: center;
   color: black;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  width: 8em;
   margin-top: 20px;
 }
