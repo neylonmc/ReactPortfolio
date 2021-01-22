@@ -3,11 +3,12 @@ import "./style.css";
 import photo from "../../Images/image01.png";
 import { Card } from "react-bootstrap";
 
-const ProjectItem = ({ name, concept, github, link }) => (
+const ProjectItem = ({ name, concept, github, link, imageUrl }) => (
   <Card style={{ width: "800px" }} className="grid">
-    <Card.Img variant="top" src="holder.js/100px180" src={photo} />
+    <img src={imageUrl} alt="pleasework" />
     <Card.Body>
       <Card.Title>{name}</Card.Title>
+      <Card.Text>{concept}</Card.Text>
       <Card.Text>
         <a href={link}>
           <i
