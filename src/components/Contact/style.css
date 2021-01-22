@@ -19,3 +19,15 @@
 .box {
   margin-top: 10px;
 }
+
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.responsive1 {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}

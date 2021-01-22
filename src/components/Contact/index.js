@@ -10,9 +10,11 @@ function Contact() {
         <h1> Contact </h1>
         <span> Let's get in touch! </span>
         <div className="form">
-          <img src={phone} alt="phone" />
+          <div>
+            <img src={phone} alt="phone" className="responsive" />
+          </div>
           <a href="mailto:neylonmc@gmail.com" target="_blank">
-            <img src={email} alt="phone" />
+            <img src={email} alt="email" className="responsive" />
           </a>
         </div>
       </div>
