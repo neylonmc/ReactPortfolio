@@ -11,7 +11,9 @@ function Contact() {
         <span> Let's get in touch! </span>
         <div className="form">
           <img src={phone} alt="phone" />
-          <img src={email} alt="phone" />
+          <a href="mailto:neylonmc@gmail.com" target="_blank">
+            <img src={email} alt="phone" />
+          </a>
         </div>
       </div>
     </div>
