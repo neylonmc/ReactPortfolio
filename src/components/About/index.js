@@ -9,7 +9,7 @@ function About() {
         <img
           src={pictureOfMe}
           alt="Meaghan"
-          style={{ width: "45%", height: "auto" }}
+          style={{ width: "45%", minWidth: "350px", height: "auto" }}
         />
 
         <h1 className="name"> Hi, I'm Meaghan Neylon. </h1>
