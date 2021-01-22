@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import pictureOfMe from "../../Images/selfImage.png";
-import resume from "../../documents/MeaghanNeylon.pdf";
 
 function About() {
   return (
