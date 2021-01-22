@@ -1,8 +1,12 @@
 .project-item {
   background-color: black;
-  color: black;
+  color: white;
   font-family: "Frank Ruhl Libre", serif;
-  /* min-height: 100vh; */
+  min-height: 100vh;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 100px;
 }
 
 .photo {

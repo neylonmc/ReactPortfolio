@@ -1,15 +1,16 @@
 .work {
-  display: flex;
-  flex-direction: column;
+  background-color: black;
+  color: white;
+  font-family: "Frank Ruhl Libre", serif;
+  min-height: 100vh;
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 100px;
 }
 
 .title {
   font-size: 28px;
   font-family: "Frank Ruhl Libre", serif;
-  text-align: center;
-}
-
-.projects {
-  display: flex;
   text-align: center;
 }

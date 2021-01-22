@@ -33,7 +33,10 @@ function About() {
           <a href="mailto:neylonmc@gmail.com" target="_blank">
             <i className="fas fa-at fa-2x" />
           </a>
-          <a className="resume" href={resume} target="_blank">
+          <a
+            href="https://drive.google.com/file/d/1kk01rSQkjnCMNbWMgTikpXnOQnewWDA9/view?usp=sharing"
+            target="_blank"
+          >
             <i className="far fa-file fa-2x" />
           </a>
         </div>
