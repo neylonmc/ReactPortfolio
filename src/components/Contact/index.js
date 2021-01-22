@@ -9,7 +9,7 @@ function Contact() {
       <div className="box">
         <h1> Contact </h1>
         <span> Let's get in touch! </span>
-        <div className="form">
+        <div className="form" style={{ flexWrap: "wrap" }}>
           <div>
             <img src={phone} alt="phone" className="responsive" />
           </div>
