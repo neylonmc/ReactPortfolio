@@ -9,9 +9,7 @@ Deployed link can be found here: https://www.meaghanneylon.com
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-
 - [Technology](#technology)
 - [License](#license)
 - [Contributing](#contributing)
