@@ -34,7 +34,7 @@ function About() {
             <i className="fas fa-at fa-2x" />
           </a>
           <a
-            href="https://drive.google.com/file/d/1kk01rSQkjnCMNbWMgTikpXnOQnewWDA9/view?usp=sharing"
+            href="https://drive.google.com/file/d/1OZl3cVtBs2Oa3rb0WbTJ-lW4kFFhuA-e/view?usp=sharing"
             target="_blank"
           >
             <i className="far fa-file fa-2x" />
