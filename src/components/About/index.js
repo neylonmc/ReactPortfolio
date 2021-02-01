@@ -1,16 +1,13 @@
 import React from "react";
 import "./style.css";
+import Skills from "../Skills/Skills.js";
 import pictureOfMe from "../../newstuff/selfImage.png";
 
 function About() {
   return (
     <div className="about">
       <div className="container">
-        <img
-          src={pictureOfMe}
-          alt="Meaghan"
-          style={{ width: "45%", minWidth: "350px", height: "auto" }}
-        />
+        <img className="about-img" src={pictureOfMe} alt="Meaghan" />
 
         <h1 className="name"> Hi, I'm Meaghan Neylon. </h1>
         <span className="subtitle">
@@ -23,7 +20,7 @@ function About() {
           threads and good coffee.
         </span>
 
-        <div className="contact-info" style={{ color: "white" }}>
+        <div className="contact-info">
           <a href="https://github.com/neylonmc" target="_blank">
             <i className="fab fa-github-square fa-2x " />
           </a>
@@ -42,6 +39,8 @@ function About() {
           >
             <i className="far fa-file fa-2x" />
           </a>
+          <hr />
+          <Skills />
         </div>
       </div>
     </div>
