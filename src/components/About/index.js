@@ -14,7 +14,7 @@ function About() {
 
         <h1 className="name"> Hi, I'm Meaghan Neylon. </h1>
         <span className="subtitle">
-          I am an aspiring web developer from Richmond, VA. I am interested in
+          I am a full stack web developer from Richmond, VA. I am interested in
           creating and building anything I can get my hands on. I have worked in
           college athletics for the last 8 years and I am excited for a new
           journey ahead. I am a member of Side By Side's Junior Board which is
