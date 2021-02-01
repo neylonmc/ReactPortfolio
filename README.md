@@ -5,13 +5,11 @@ Portfolio to market my work, contact information and information about myself us
 
 ### Deployed Link
 
-Deployed link can be found here: https://stupefied-noyce-f34539.netlify.app/
+Deployed link can be found here: https://www.meaghanneylon.com
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-
 - [Technology](#technology)
 - [License](#license)
 - [Contributing](#contributing)
@@ -23,7 +21,7 @@ Deployed link can be found here: https://stupefied-noyce-f34539.netlify.app/
 Copy and paste link to the deployed application in browser:
 
 ```
-https://stupefied-noyce-f34539.netlify.app/
+https://https://www.meaghanneylon.com
 ```
 
 <img src="public/assets/images/Meg.png" width="100%" alt="Meaghan">
