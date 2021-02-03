@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
-import phone from "../../newstuff/phone.png";
-import email from "../../newstuff/email.png";
+import phone from "../../assests/images/phone.png";
+import email from "../../assests/images/email.png";
 
 function Contact() {
   return (

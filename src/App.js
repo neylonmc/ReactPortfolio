@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import ProjectPage from "./pages/portpage";
+import ProjectPage from "./utils/ProjectData/portfoliopage.js";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 

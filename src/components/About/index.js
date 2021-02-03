@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import Skills from "../Skills/Skills.js";
-import pictureOfMe from "../../newstuff/selfImage.png";
+import pictureOfMe from "../../assests/images/selfImage.png";
 
 function About() {
   return (

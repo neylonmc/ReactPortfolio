@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-const ProjectItem = ({ name, concept, github, link, imageUrl }) => (
+const ProjectItem = ({ name, concept, github, link, imageUrl, libraries }) => (
   <div class="container-fluid">
     <div class="row">
       <div class="card-deck">
@@ -16,6 +16,9 @@ const ProjectItem = ({ name, concept, github, link, imageUrl }) => (
             </h4>
             <p class="card-text" style={{ color: "black" }}>
               {concept}
+            </p>
+            <p class="card-text" style={{ color: "black" }}>
+              Technologies used: {libraries}
             </p>
             <p class="card-text">
               <a href={link}>

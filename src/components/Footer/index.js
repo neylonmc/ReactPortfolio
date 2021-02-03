@@ -1,5 +1,5 @@
 import React from "react";
-import background from "../../newstuff/footer.png";
+import background from "../../assests/images/footer.png";
 
 const Footer = () => (
   <footer

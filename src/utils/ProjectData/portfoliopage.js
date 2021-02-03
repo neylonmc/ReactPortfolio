@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Project_DATA from "./portfolio.data";
-import Work from "../components/Work";
-import "../App.css";
+import Work from "../../components/Work";
+import "../../App.css";
 
 class ProjectPage extends Component {
   constructor(props) {
