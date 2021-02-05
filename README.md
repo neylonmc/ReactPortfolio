@@ -21,7 +21,7 @@ Deployed link can be found here: https://www.meaghanneylon.com
 Copy and paste link to the deployed application in browser:
 
 ```
-https://https://www.meaghanneylon.com
+https://www.meaghanneylon.com
 ```
 
 <img src="public/assets/images/Meg.png" width="100%" alt="Meaghan">
