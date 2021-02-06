@@ -2,14 +2,16 @@ import React from "react";
 import "./style.css";
 import Skills from "../Skills/Skills.js";
 import pictureOfMe from "../../assests/images/selfImage.png";
-
+import Animation from "../../components/Typewriter/Typewriter";
 function About() {
   return (
     <div className="about">
       <div className="container">
         <img className="about-img" src={pictureOfMe} alt="Meaghan" />
 
-        <h1 className="name"> Hi, I'm Meaghan Neylon. </h1>
+        <h1 className="name">
+          <Animation />
+        </h1>
         <span className="subtitle">
           I am a full stack web developer from Richmond, VA. I am interested in
           creating and building anything I can get my hands on. I have worked in
