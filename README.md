@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "public/assets/images/footer.png" width="300px" >
+<img src = "public/assets/images/bannerlogo.png" width="300px" >
 </p>
 Portfolio to market my work, contact information and information about myself using React.
 
@@ -34,6 +34,7 @@ https://www.meaghanneylon.com
 - React
 - React Router
 - Font Awesome
+- TypewriterJS v2
 
 ## License
 
