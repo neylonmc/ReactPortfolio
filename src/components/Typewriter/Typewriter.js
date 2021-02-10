@@ -9,6 +9,7 @@ function Animation() {
         autoStart: true,
         loop: true,
       }}
+      r
     />
   );
 }
