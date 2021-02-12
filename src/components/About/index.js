@@ -12,7 +12,7 @@ function About() {
         <h1 className="name">
           <Animation />
         </h1>
-        <p className="subtitle">
+        <span className="subtitle">
           I am a full stack web developer from Richmond, VA. I am interested in
           creating and building anything I can get my hands on. I have worked in
           college athletics for the last 8 years and I am excited for a new
@@ -20,7 +20,7 @@ function About() {
           dedicated to creating supportive and welcoming communities for LGBTQ+
           youth. In my spare time I enjoy running, biking, reading Reddit
           threads and good coffee.
-        </p>
+        </span>
 
         <div className="contact-info">
           <a href="https://github.com/neylonmc" target="_blank">
