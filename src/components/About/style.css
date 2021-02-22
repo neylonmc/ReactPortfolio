@@ -10,9 +10,6 @@
 }
 
 .subtitle {
-  text-align: left;
-  margin-left: 15%;
-  margin-right: 15%;
   text-align: center;
 }
 
@@ -55,7 +52,6 @@ hr {
 
 @media (max-width: 680px) {
   .subtitle {
-    text-align: left;
     margin-left: 0%;
     margin-right: 0%;
     text-align: center;
