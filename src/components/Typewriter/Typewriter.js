@@ -5,9 +5,10 @@ function Animation() {
   return (
     <Typewriter
       options={{
-        strings: ["Hi, I'm Meaghan Neylon.", "Have a look around!", "Enjoy!"],
+        strings: ["Hi, I'm Meaghan Neylon."],
         autoStart: true,
         loop: true,
+        pauseFor: 6000000,
       }}
       r
     />
