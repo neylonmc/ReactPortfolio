@@ -10,8 +10,8 @@ const Project_DATA = [
         concept:
           "A React application designed with community in mind. Hearth allows users to rate, review and find something worth reading, listening or watching almost instantly.",
         libraries: "React, MongoDB, Mongoose, React Suite, Google Login",
-        github: "https://github.com/neylonmc/Hearth",
-        link: "https://hearthapplication.herokuapp.com/",
+        github: "https://github.com/eaclumpkens/Hearth-v2",
+        link: "https://hearthcommunity.herokuapp.com/",
         imageUrl: "https://i.postimg.cc/prNjMrHw/login-READ.png",
       },
       {
