@@ -6,7 +6,7 @@ const Project_DATA = [
     items: [
       {
         id: 1,
-        name: "hearth",
+        name: "Project: hearth",
         concept:
           "A React application designed with community in mind. Hearth allows users to rate, review and find something worth reading, listening or watching almost instantly.",
         libraries: "React, MongoDB, Mongoose, React Suite, Google Login",

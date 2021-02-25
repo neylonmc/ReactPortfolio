@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import ProjectItem from "../Individual-Projects";
+import ProjectItem from "../../components/Individual-Projects";
 
 const Work = ({ title, items }) => {
   return (
