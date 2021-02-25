@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Skills from "../Skills/Skills.js";
+import Skills from "../../components/Skills/Skills.js";
 import pictureOfMe from "../../assests/images/selfImage.png";
 import Animation from "../../components/Typewriter/Typewriter";
 function About() {
