@@ -38,17 +38,6 @@ const Project_DATA = [
           "https://i.postimg.cc/Hst7XLhp/Screen-Shot-2021-01-21-at-9-54-29-PM.png",
       },
       {
-        id: 4,
-        name: "Project: PX",
-        concept:
-          "PX is a simple way to have all your social media and news in one central place.",
-        libraries: "Bulma, GNews API, Reddit API, jQuery",
-        github: "https://github.com/tremaynet/group-project-1",
-        link: "https://tremaynet.github.io/group-project-1/",
-        imageUrl:
-          "https://i.postimg.cc/yNkMcfNY/Screen-Shot-2021-01-21-at-9-58-06-PM.png",
-      },
-      {
         id: 5,
         name: "Homework: Password Generator",
         concept:
@@ -69,18 +58,6 @@ const Project_DATA = [
         link: "https://github.com/neylonmc/Javascript-Coding-Quiz",
         imageUrl:
           "https://i.postimg.cc/zvS686xp/Screen-Shot-2021-01-21-at-10-00-11-PM.png",
-      },
-      {
-        id: 7,
-        name: "Homework: Fitness Tracker",
-        concept:
-          "Fitness Tracker using a Mongo database with a Mongoose schema and handle routes with Express.",
-        libraries: "MongoDB, Mongoose, Express",
-        github: "https://github.com/neylonmc/FitnessTracker-",
-        link:
-          "https://secret-mesa-83729.herokuapp.com/?id=5fe0d2daf8b1b60017c3dc1e",
-        imageUrl:
-          "https://i.postimg.cc/LX4ZxZrX/Screen-Shot-2021-01-21-at-10-02-33-PM.png",
       },
     ],
   },
