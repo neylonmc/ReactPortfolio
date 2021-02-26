@@ -3,7 +3,7 @@ import { Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import About from "./pages/About/About.js";
 import Contact from "./pages/Contact/Contact.js";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer/Footer.js";
 import ProjectPage from "./utils/ProjectData/portfoliopage.js";
 
 import "bootstrap/dist/css/bootstrap.min.css";

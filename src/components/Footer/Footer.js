@@ -3,7 +3,7 @@ import background from "../../assests/images/footer.png";
 
 const Footer = () => (
   <footer
-    class="footer"
+    className="footer"
     style={{ backgroundImage: `url(${background})`, height: "100px" }}
   ></footer>
 );
