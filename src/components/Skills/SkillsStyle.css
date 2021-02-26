@@ -1,10 +1,10 @@
 #skills-header {
   font-family: "Frank Ruhl Libre", serif;
   margin-top: 15px;
-  font-size: 25px;
+  font-size: 35px;
 }
 
-i {
-  margin-right: 3px;
-  font-size: 25px;
+.skill-img {
+  width: 20%;
+  height: auto;
 }
