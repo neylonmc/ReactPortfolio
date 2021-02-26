@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./AboutStyle.css";
 import Skills from "../../components/Skills/Skills.js";
 import pictureOfMe from "../../assests/images/selfImage.png";
 import Animation from "../../components/Typewriter/Typewriter";
@@ -23,21 +23,27 @@ function About() {
         </span>
 
         <div className="contact-info">
-          <a href="https://github.com/neylonmc" target="_blank">
+          <a
+            href="https://github.com/neylonmc"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i className="fab fa-github-square fa-2x " />
           </a>
           <a
             href="https://www.linkedin.com/in/meaghan-neylon-844b031b4/"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="fab fa-linkedin fa-2x" />
           </a>
-          <a href="mailto:neylonmc@gmail.com" target="_blank">
+          <a href="mailto:neylonmc@gmail.com" target="_blank" rel="noreferrer">
             <i className="fas fa-at fa-2x" />
           </a>
           <a
             href="https://drive.google.com/file/d/1OZl3cVtBs2Oa3rb0WbTJ-lW4kFFhuA-e/view?usp=sharing"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="far fa-file fa-2x" />
           </a>

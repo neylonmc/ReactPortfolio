@@ -1,12 +1,12 @@
 import React from "react";
-import "./style.css";
+import "./Individual-Projects-Style.css";
 
 const ProjectItem = ({ name, concept, github, link, imageUrl, libraries }) => (
   <div class="container-fluid">
     <div class="row">
       <div class="card-deck">
         <div class="card">
-          <img class="card-img-top" src={imageUrl} alt="Card image cap" />
+          <img class="card-img-top" src={imageUrl} alt="Card img cap" />
           <div class="card-block">
             <h4
               class="card-title"
