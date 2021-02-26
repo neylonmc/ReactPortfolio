@@ -13,7 +13,7 @@ function Contact() {
           <div>
             <img src={phone} alt="phone" className="responsive" />
           </div>
-          <a href="mailto:neylonmc@gmail.com" target="_blank">
+          <a href="mailto:neylonmc@gmail.com" target="_blank" rel="noreferrer">
             <img src={email} alt="email" className="responsive" />
           </a>
         </div>
