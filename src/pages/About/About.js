@@ -13,13 +13,13 @@ function About() {
           <Animation />
         </h1>
         <span className="subtitle">
-          I am a full stack web developer from Richmond, VA. I am interested in
-          creating and building anything I can get my hands on. I have worked in
-          college athletics for the last 8 years and I am excited for a new
-          journey ahead. I am a member of Side By Side's Junior Board which is
-          dedicated to creating supportive and welcoming communities for LGBTQ+
-          youth. In my spare time I enjoy running, biking, reading Reddit
-          threads and good coffee.
+          I am a Full Stack Web Developer from Richmond, VA. I enjoy the
+          solution-driven environment and creating applications that function on
+          any screen, big or small. I have worked in college athletics for the
+          last 8 years and I am excited for a new journey ahead. I am a member
+          of Side By Side's Junior Board which is dedicated to creating
+          supportive and welcoming communities for LGBTQ+ youth. In my spare
+          time I enjoy running, biking, reading Reddit threads and good coffee.
         </span>
 
         <div className="contact-info">
