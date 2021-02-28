@@ -43,12 +43,12 @@ a:visited {
   margin: 10px;
 }
 
-hr {
+/* hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
   border-top: 1px solid white;
-}
+} */
 
 @media (max-width: 680px) {
   .subtitle {
