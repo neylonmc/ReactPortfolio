@@ -47,9 +47,8 @@ function About() {
           >
             <i className="far fa-file fa-2x" />
           </a>
-          <hr />
-          <Skills />
         </div>
+        <Skills />
       </div>
     </div>
   );
