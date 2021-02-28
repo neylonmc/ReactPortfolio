@@ -5,6 +5,16 @@ const Project_DATA = [
     routename: "work",
     items: [
       {
+        id: 7,
+        name: "Personal: React Portfolio Page",
+        concept:
+          "Portfolio to market my work, contact information and information about myself using React.",
+        libraries: "React",
+        github: "https://github.com/neylonmc/ReactPortfolio",
+        link: "https://www.meaghanneylon.com/",
+        imageUrl: "https://i.postimg.cc/cHxT9dxk/portfolio.png",
+      },
+      {
         id: 1,
         name: "Project: hearth",
         concept:
